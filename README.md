@@ -52,6 +52,6 @@ I'm always looking to build impactful projects and contribute to open-source. Ex
 ### 📫 Get in Touch
 
 - GitHub: [@MohammedAbdullah01](https://github.com/MohammedAbdullah01)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) *(add your LinkedIn profile if available)*
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-abdullah-9301ba1a8/)) *(add your LinkedIn profile if available)*
 
 Thank you for visiting my profile! 😊 Let's connect and work together to create impactful software.
