@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Abdullah</h1>
-<h3 align="center">Aspiring Software Engineer specializing in .NET Development and Systems Programming</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** specializing in **.NET Development**, **ASP.NET**, and **C#**, with a strong foundation in computer science and software engineering principles. I aim to craft efficient, scalable, and innovative solutions for real-world problems.</h3>
 
 <p align="center">
   <a href="https://github.com/MohammedAbdullah01">
