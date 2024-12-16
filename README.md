@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Mohammed Abdullah</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** specializing in **.NET Development**, **ASP.NET**, and **C#**, with a strong foundation in computer science and software engineering principles. I aim to craft efficient, scalable, and innovative solutions for real-world problems.</h3>
+<h1 align="center">Hi there 👋, Mohammed Abdullah | Junior Software Engineer</h1>
 
-<p align="center">
-  <a href="https://github.com/MohammedAbdullah01">
-    <img src="https://img.shields.io/github/followers/MohammedAbdullah01?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</p>
+Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** specializing in **.NET Development**, **ASP.NET**, and **C#**, with a strong foundation in computer science and software engineering principles. I aim to craft efficient, scalable, and innovative solutions for real-world problems.
+
+## 🚀 About Me
+- 🎓 Student in the Faculty of Computers and Information.
+- 💼 Proficient in designing, developing, and maintaining software systems using modern .NET technologies.
+- 📖 Enthusiastic learner with a focus on mastering **Data Structures**, **Algorithms**, and **Design Patterns**.
 
 ---
 
