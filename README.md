@@ -16,16 +16,24 @@
   - Entity Framework, ORM, LINQ
 
 ### Programming Languages
-- **C#** | **C++** | **C** | **JavaScript** | **HTML** | **CSS**
+- **C#** | **C++** | **C** | | **PHP** | **JavaScript** | **HTML** | **CSS**
 
-- **Databases**:  
-  - Microsoft SQL Server
+### Databases
+- **Microsoft SQL Server**
 
-- **Frameworks & Libraries**:  
-  - SignalR, Unit Testing, Design Patterns
+### Tools and Technologies
+- **LINQ** | **ORM** | **IIS** | **REST APIs**
+- **Git** | **Docker** | **Unit Testing** 
+- **Linux** | **Operating Systems** 
 
-- **Software Design Principles**:  
-  - OOP, SOLID Principles
+### Frameworks and Libraries
+- **ASP.NET MVC** | **ASP.NET Web API** | **Entity Framework** | **SignalR** | **Bootstrap**
+
+### Software Design Principles  
+- **Object-Oriented Programming (OOP)**
+- **SOLID Principles**
+- **Design Patterns**
+- **Data Structures & Algorithms**
 
 - **DevOps & Deployment**:  
   - IIS, Docker
@@ -35,11 +43,29 @@
 
 ---
 
-### 👨‍💻 Projects & Contributions
+## 📂 Projects
 
-I'm always looking to build impactful projects and contribute to open-source. Explore my repositories to see my work in areas like .NET development, data structures, algorithms, and systems programming.
+### 🌟 Featured Projects
+
+#### [DS_Linked_List](https://github.com/MohammedAbdullah01/DS_Linked_List)
+- A comprehensive implementation of a linked list data structure in C++.
+- Supports node manipulation operations: append, remove, search, and more.
+- Features robust testing for index-based retrieval and node relationships.
+
+#### [Windows Forms Applications](https://github.com/MohammedAbdullah01)
+- **Unit Converter**: Converts between meters, kilometers, and miles, with input validation.
+- **Registration Form**: Validates user details (name, email, gender, and sport preference).
+
+#### [Event-Driven Employee Management System](https://github.com/MohammedAbdullah01)
+- Designed an event-based system for handling employee layoff scenarios.
+- Implements end-of-year operations for employee vacation and age checks.
 
 ---
+
+## 🗓️ Current Focus
+- Advanced C# features: Delegates, Events, and LINQ.
+- Building modular applications with SOLID principles.
+- Exploring **Data Structures** and their applications in real-world scenarios.
 
 ### 🔍 About Me
 
@@ -49,9 +75,11 @@ I'm always looking to build impactful projects and contribute to open-source. Ex
 
 ---
 
-### 📫 Get in Touch
+## 🌐 Connect with Me
+- **GitHub**: [MohammedAbdullah01](https://github.com/MohammedAbdullah01)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-abdullah-9301ba1a8/)
+- **Email**: mm8909840h@gmail.com
 
-- GitHub: [@MohammedAbdullah01](https://github.com/MohammedAbdullah01)
-- LinkedIn: [Mohammed Abdullah](https://www.linkedin.com/in/mohammed-abdullah-9301ba1a8/)
+---
 
-Thank you for visiting my profile! 😊 Let's connect and work together to create impactful software.
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities 😊
