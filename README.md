@@ -15,8 +15,8 @@
   - ASP.NET Web API, ASP.NET MVC, RESTful APIs
   - Entity Framework, ORM, LINQ
 
-- **Programming Languages**:  
-  - C#, C++, C, JavaScript, HTML
+### Programming Languages
+- **C#** | **C++** | **C** | **JavaScript** | **HTML** | **CSS**
 
 - **Databases**:  
   - Microsoft SQL Server
