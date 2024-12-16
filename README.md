@@ -32,12 +32,6 @@
 - **Design Patterns**
 - **Data Structures & Algorithms**
 
-- **DevOps & Deployment**:  
-  - IIS, Docker
-
-- **Other Skills**:  
-  - Data Structures & Algorithms, Networking, Operating Systems, Git, Linux
-
 ---
 
 ## 📂 Projects
