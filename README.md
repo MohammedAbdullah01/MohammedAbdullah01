@@ -16,6 +16,7 @@
 
 ### Databases
 - **Microsoft SQL Server**
+- **Mysql**
 
 ### Tools and Technologies
 - **LINQ** | **ORM** | **IIS** | **REST APIs**
