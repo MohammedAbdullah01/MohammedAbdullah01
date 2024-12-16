@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** specializing in **.NET Development**, **ASP.NET**, and **C#**, with a strong foundation in computer science and software engineering principles. I aim to craft efficient, scalable, and innovative solutions for real-world problems.
 
+---
+
 ## 🚀 About Me
 - 🎓 Student in the Faculty of Computers and Information.
 - 💼 Proficient in designing, developing, and maintaining software systems using modern .NET technologies.
