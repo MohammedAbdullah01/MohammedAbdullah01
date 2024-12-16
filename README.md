@@ -11,10 +11,6 @@
 
 ### 🛠️ Technologies & Skills
 
-- **Backend Development**:  
-  - ASP.NET Web API, ASP.NET MVC, RESTful APIs
-  - Entity Framework, ORM, LINQ
-
 ### Programming Languages
 - **C#** | **C++** | **C** | | **PHP** | **JavaScript** | **HTML** | **CSS**
 
