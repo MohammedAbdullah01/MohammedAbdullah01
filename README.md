@@ -24,7 +24,7 @@
 - **Linux** | **Operating Systems** 
 
 ### Frameworks and Libraries
-- **ASP.NET MVC** | **ASP.NET Web API** | **Entity Framework** | **SignalR** | **Bootstrap**
+- **ASP.NET MVC** | **ASP.NET Web API** | **Entity Framework** | **SignalR** | **Laravel** | **Bootstrap**
 
 ### Software Design Principles  
 - **Object-Oriented Programming (OOP)**
