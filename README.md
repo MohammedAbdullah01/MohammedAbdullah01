@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, Mohammed Abdullah | Junior Software Engineer</h1>
+<h1 align="center">Hi there 👋, Mohammed Abdullah | Junior Software Developer</h1>
 
-Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** specializing in **.NET Development**, **ASP.NET**, and **C#**, with a strong foundation in computer science and software engineering principles. I aim to craft efficient, scalable, and innovative solutions for real-world problems.
+Welcome to my GitHub profile! I'm a passionate **Junior Software Developer** specializing in **.NET Development**, **ASP.NET**, and **C#**, with a strong foundation in computer science and software engineering principles. I aim to craft efficient, scalable, and innovative solutions for real-world problems.
 
 ---
 
@@ -14,24 +14,23 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** spec
 ### 🛠️ Technologies & Skills
 
 ### Programming Languages
-- **C#** | **C++** | **C** | | **PHP** | **JavaScript** | **HTML** | **CSS**
+- **C#** | **C++** | **PHP** | **JavaScript** | **HTML** | **CSS**
 
 ### Databases
 - **Microsoft SQL Server**
 - **Mysql**
 
 ### Tools and Technologies
-- **LINQ** | **ORM** | **IIS** | **REST APIs**
+- **LINQ** | **ORM** | **REST APIs**
 - **Git** | **Docker** | **Unit Testing** 
 - **Linux** | **Operating Systems** 
 
 ### Frameworks and Libraries
-- **ASP.NET MVC** | **ASP.NET Web API** | **Entity Framework** | **SignalR** | **Laravel** | **Bootstrap**
+- **ASP.NET MVC** | **ASP.NET Web API** | **Entity Framework** | **.NET Framework** | **Laravel** | **Bootstrap**
 
 ### Software Design Principles  
 - **Object-Oriented Programming (OOP)**
 - **SOLID Principles**
-- **Design Patterns**
 - **Data Structures & Algorithms**
 
 ---
